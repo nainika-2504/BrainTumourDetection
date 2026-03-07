@@ -128,4 +128,4 @@ Always consult a qualified neurologist for medical decisions.
 ---
 
 ## Author
-Nainika M | Under guidance of Dr. Beebi Naseeba
+Nainika M 
