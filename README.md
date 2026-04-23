@@ -1,4 +1,4 @@
-# 🧠 Brain Tumour Detection
+#  Brain Tumour Detection
 ### Deep Learning Medical Imaging Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
@@ -129,3 +129,4 @@ Always consult a qualified neurologist for medical decisions.
 
 ## Author
 Nainika M 
+Nandhini
